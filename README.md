@@ -1,4 +1,4 @@
-# Execute2.0 Hackathon
+# Execute2.0 Hackathon 
 
 ## :dizzy: Domain: Building Technological Solution For Indian Business Owners
 
@@ -44,7 +44,6 @@ In which user will come to our portal and he/she will only select the service he
 - Application stats
 - Payment
 
-
 # :telescope: Tech Stack
 
 ### The project is created using
@@ -56,4 +55,6 @@ In which user will come to our portal and he/she will only select the service he
 - MySQL
 - Razorpay payment gateway integration.
 - Canva
+
+  # Thank You
 
